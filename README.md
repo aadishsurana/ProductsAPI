@@ -1,4 +1,4 @@
-## Getting started for applicants
+## Getting started
 
 There should be these endpoints:
 
