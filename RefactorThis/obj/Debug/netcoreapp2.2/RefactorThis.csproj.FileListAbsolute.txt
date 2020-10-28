@@ -1,0 +1,16 @@
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.deps.json
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.runtimeconfig.json
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.runtimeconfig.dev.json
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.dll
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.pdb
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.RazorAssemblyInfo.cache
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.RazorAssemblyInfo.cs
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.AssemblyInfoInputs.cache
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.AssemblyInfo.cs
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.RazorTargetAssemblyInfo.cache
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.dll
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.pdb
+C:\Users\suranaa\Downloads\RefactorThis\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.genruntimeconfig.cache
