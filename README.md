@@ -1,4 +1,5 @@
 ## Getting started
+This is .Net Core API solution
 
 There should be these endpoints:
 
